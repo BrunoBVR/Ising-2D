@@ -1,3 +1,7 @@
+/*
+Bruno Vieira Ribeiro - bruno64bits@gmail.com
+*/
+
 #include <iostream>
 #include <fstream>
 #include <vector>
